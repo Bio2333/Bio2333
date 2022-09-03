@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://bytecho.cn" target="_blank">Bio2333</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
+## Hi, 👋  I'm <a href="https://bytecho.cn" target="_blank">Bio2333</a>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
 
